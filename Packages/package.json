@@ -1,0 +1,21 @@
+{
+  "name": "com.raccoons.<framework>.<library(optional)>",
+  "displayName": "Raccoons <beatiful framework name>",
+  "version": "<3-numbers version (starting from 0.1.0)>",
+  "description": "<Short beautiful description>",
+  "unity": "<unity-version starting from 2018.1>",
+  "author": "Raccoons Games",
+  "repository": {
+    "type": "git",
+    "url": "git+<.git-repo-url>"
+  },
+  "keywords": [
+    "<keyword1 (serialization for example)>",
+	"<keyword2>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "<repository-url>/issues"
+  },
+  "homepage": "<repository-url>#readme"
+}
